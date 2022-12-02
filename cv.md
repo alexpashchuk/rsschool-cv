@@ -42,3 +42,14 @@ function noSpace(str) {
 **Field of study**: Heat and Gas Supply, Air-conditioning, Air Protection\
 **Degree**: Bachelor’s degree\
 **Specialization**: Engineer
+
+## Experience
+
+**04/2022 – present** – **Amitech Group** (*Netanya, Israel*)\
+**Role**: Junior Front-End Developer\
+**Tools & Technologies:** HTML, CSS, React, Tailwind, Git, GraphQL, Jira, Figma
+
+## Languages
+
++  English (В1)
++  Russian (Native)
