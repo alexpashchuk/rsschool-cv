@@ -24,3 +24,21 @@ My goal is to become an excellent developer, participate in the development of a
 + VS Code, IntelliJ IDEA
 + Figma
 + Git, GitHub
+
+##  Code Example
+
+``` javascript
+function noSpace(str) {
+    return str
+        .split('')
+        .filter((el) => el.trim().length)
+        .join('')
+}
+```
+
+## Education
+
+**2009 – 2014** – **Belarusian National Technical University**\
+**Field of study**: Heat and Gas Supply, Air-conditioning, Air Protection\
+**Degree**: Bachelor’s degree\
+**Specialization**: Engineer
